@@ -3,7 +3,7 @@
 ---
 
 ## 🎥 Video Demostrativo
-> **Enlace del video:** Video Demostrativo en OneDrive [https://itlaedudo-my.sharepoint.com/:v:/g/personal/20242412_itla_edu_do/IQCkfjkszioPSoJxz6L7oQPQAWRf9DCTmw_uHnVhElxbm80?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BWoi1G](https://itlaedudo-my.sharepoint.com/:v:/g/personal/20242412_itla_edu_do/IQCkfjkszioPSoJxz6L7oQPQAf23Q-mB9Jbvc7m4Adlqpxc?e=yn2eQr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+> **Enlace del video:** Video Demostrativo en OneDrive: https://itlaedudo-my.sharepoint.com/:v:/g/personal/20242412_itla_edu_do/IQCkfjkszioPSoJxz6L7oQPQAf23Q-mB9Jbvc7m4Adlqpxc?e=yn2eQr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 > *Demostración práctica de cumplimiento de seguridad perimetral (máximo 10 minutos) con rostro visible, voz audible y fecha/hora del sistema.*
 
 ---
